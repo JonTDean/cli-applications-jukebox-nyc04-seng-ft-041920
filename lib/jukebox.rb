@@ -58,6 +58,7 @@ def run(songs)
   
   if input == 'list'
     list
+  elsif input == 'help'
     
   
 end
