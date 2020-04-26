@@ -49,5 +49,5 @@ def findBySongIndex(array_songs, choice)
 end
 
 def exit_jukebox
-  
+  puts "Goodbye"
 end
