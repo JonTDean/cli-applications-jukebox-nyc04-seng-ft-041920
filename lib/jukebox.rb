@@ -55,4 +55,6 @@ end
 def run(songs)
   puts "Please enter a command:"
   input = gets.strip
+  
+  
 end
