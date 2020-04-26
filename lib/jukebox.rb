@@ -57,6 +57,7 @@ def run(songs)
   input = gets.strip.downcase
   
   if input == 'list'
+    list
     
   
 end
