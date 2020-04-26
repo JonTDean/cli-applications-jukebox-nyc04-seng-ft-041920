@@ -60,8 +60,10 @@ def run(songs)
     list
   elsif input == 'help'
     help
-    elsif input == 'play'
+  elsif input == 'play'
     play
-    
+  elsif input == 'exit'
+  exit
+end
   
 end
